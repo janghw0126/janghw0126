@@ -21,8 +21,8 @@ Here are some ideas to get you started:
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;">  </div> 
     </div>
     <div align= "center">
-    <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h3> <br> 
-    <p style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Platforms & Languages </p>
+    <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📚 Tech Stacks 📚 </h3> <br> 
+    <p style="border-bottom: 1px solid #d8dee4; color: #282d33;"> ✨ Platforms & Languages ✨ </p>
     <div style="margin: 0 auto; text-align: center;" align= "center"> 
          <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
          <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
@@ -35,7 +35,7 @@ Here are some ideas to get you started:
     </div>
     <br> 
     <div align= "center">
-    <p style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Tools </p>
+    <p style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tools 🛠️ </p>
     <div align= "center">
            <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
           <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
