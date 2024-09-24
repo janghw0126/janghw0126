@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=cef2d3&height=240&text=Hyewon%20Github!&animation=&fontColor=000000&fontSize=70" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=799aab&height=240&text=Hyewon%20Github!&animation=&fontColor=000000&fontSize=70" />
     </div>
     <div align= "center"> 
     <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  </h3>  
