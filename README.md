@@ -44,14 +44,20 @@ Here are some ideas to get you started:
     </div>
     <div align= "center"> 
         <br> 
-    <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h3> <div align= "center"> 
-        <div align= "center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janghw0126&layout=compact&bg_color=180,00000000,00000000&title_color=ffffff&text_color=ffffff"
-           /> </div> 
-        <br>
-        <div align= "center">
-            <img src="https://github-readme-stats.vercel.app/api?username=janghw0126&bg_color=180,00000000,00000000&title_color=ffffff&text_color=ffffff"
-         /> </div> 
-        <br>
-        <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=http://janghw0126.github.com%2Fgjbae1212%2Fhit-counter&count_bg=%2361AFE5&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-    </div>
+   <h3 style="border-bottom: 1px solid #d8dee4; color: #3A8DCC;"> 🏅 Stats </h3> 
+<div align= "center"> 
+    <div align= "center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janghw0126&layout=compact&bg_color=180,00000000,00000000&title_color=#3A8DCC&text_color=#3A8DCC"
+        /> 
+    </div> 
+    <br>
+    <div align= "center">
+        <img src="https://github-readme-stats.vercel.app/api?username=janghw0126&bg_color=180,00000000,00000000&title_color=#3A8DCC&text_color=#3A8DCC"
+        /> 
+    </div> 
+    <br>
+    <a href="https://hits.seeyoufarm.com">
+        <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=http://janghw0126.github.com%2Fgjbae1212%2Fhit-counter&count_bg=%233A8DCC&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
+    </a>
+</div>
+
